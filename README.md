@@ -1,6 +1,6 @@
 # Welcome to my portfolio!
 
-My name is Alex, I am a data analyst with a background in statistics and a passion for transforming raw data into actionable insights. I am proficient in data tools such as Python, SQL, Tableau, Excel, and R, and have a thorough understanding of data analytics techniques including, but not limited to, machine learning, web scraping, regression analysis, time series, and hypothesis testing.
+My name is Alex, I am a data analyst with a background in statistics and a passion for transforming raw data into actionable insights. I am proficient in data tools such as Python, SQL, Tableau, Excel, and R, and have a thorough understanding of data analysis techniques including, but not limited to, machine learning, web scraping, regression analysis, time series, and hypothesis testing.
 
 In this portfolio, I have included some personal data projects that showcase my technical skills as well as analytical capability. Currently, you will find documents, workbooks, and dashboards created with SQL, Tableau, and Jupyter Notebook. These projects demonstrate my ability to organize, analyze, and present data in a clear and visually appealing way, making it easy for anyone to understand and make informed decisions. I plan to introduce more projects to this portfolio in the near future to demonstrate my growth as a data analyst.
 
