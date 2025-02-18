@@ -17,7 +17,7 @@ In this portfolio, I have included some personal data projects that showcase my 
       * [NBA Shot Tendencies](https://public.tableau.com/app/profile/alex.vander.pas/viz/NBAShotData2022-23/Dashboard1)
       * [2024 Men's College Basketball Efficiency vs Tempo](https://github.com/acvanderpas/Portfolio?tab=readme-ov-file#covid-data-cleaning-and-exploration)
    * SQL
-      * [Covid Data Cleaning and Exploration](https://github.com/acvanderpas/Portfolio/tree/main/Covid%20Data%20Cleaning%20and%20Exploration)
+      * [Covid Data Cleaning and Exploration](https://github.com/acvanderpas/Portfolio?tab=readme-ov-file#covid-data-cleaning-and-exploration)
 
 * [Education](https://github.com/acvanderpas/Portfolio?tab=readme-ov-file#education)
   * [Relevant Coursework](https://github.com/acvanderpas/Portfolio?tab=readme-ov-file#relevant-coursework)
