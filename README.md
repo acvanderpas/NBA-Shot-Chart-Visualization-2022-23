@@ -11,15 +11,16 @@ In this portfolio, I have included some personal data projects that showcase my 
 * [Portfolio Projects](https://github.com/acvanderpas/Portfolio?tab=readme-ov-file#projects)
   
    * Python
-      * [NBA API Shot Data Web Scraping](https://github.com/acvanderpas/Portfolio/tree/main/NBA%20API%20Shot%20Data%20Web%20Scraping)
-      * [Predicting NBA Most Valuable Player using Machine Learning](https://github.com/acvanderpas/Portfolio/tree/main/Predicting%20NBA%20Most%20Valuable%20Player%20using%20Machine%20Learning)
+      * [NBA API Shot Data Web Scraping](https://github.com/acvanderpas/Portfolio?tab=readme-ov-file#nba-api-shot-data-web-scraping)
+      * [Predicting NBA Most Valuable Player using Machine Learning](https://github.com/acvanderpas/Portfolio?tab=readme-ov-file#predicting-nba-most-valuable-player-using-machine-learning)
    * Tableau
       * [NBA Shot Tendencies](https://public.tableau.com/app/profile/alex.vander.pas/viz/NBAShotData2022-23/Dashboard1)
-      * [2024 Men's College Basketball Efficiency vs Tempo](https://public.tableau.com/app/profile/alex.vander.pas/viz/2024NCAABEfficiencyvsTempo/2024EffvTem)
+      * [2024 Men's College Basketball Efficiency vs Tempo](https://github.com/acvanderpas/Portfolio?tab=readme-ov-file#covid-data-cleaning-and-exploration)
    * SQL
       * [Covid Data Cleaning and Exploration](https://github.com/acvanderpas/Portfolio/tree/main/Covid%20Data%20Cleaning%20and%20Exploration)
 
 * [Education](https://github.com/acvanderpas/Portfolio?tab=readme-ov-file#education)
+  * [Relevant Coursework](https://github.com/acvanderpas/Portfolio?tab=readme-ov-file#relevant-coursework)
 
 ## Projects
 In this section, you can short summaries of the listed projects for quick comprehension. For more details, please check out the documents in each respective project folder.
